@@ -1,3 +1,4 @@
+<!-- ============== Title ======== -->
 <h3 align="center" style="color: green">Full-Stack Python Developer</h3>
 <p align="center">
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
@@ -28,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
   <a href= "#" target="_blank">
-    <img src="https://img.icons8.com/color/48/null/linux--v1.png"/>
+    <img src="https://img.icons8.com/color/50/null/linux--v1.png"/>
   </a>
 </p>
 
