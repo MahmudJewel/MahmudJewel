@@ -32,6 +32,7 @@
     <img src="https://img.icons8.com/color/50/null/linux--v1.png"/>
   </a>
 </p>
+<br/>
 
 <!-- ============== social link ======== -->
 <h3 align="center">Connect with me</h3>   
