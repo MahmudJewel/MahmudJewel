@@ -1,7 +1,8 @@
 <!-- Profile views  -->
 <!-- <p> -->
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmudjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjewel" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=mahmudjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjewel" /> -->
+  <img src="https://views.whatilearened.today/views/github/mahmudjewel/views.svg" alt="mahmudjewel" />
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-afff"/></a>
 </p>
 
