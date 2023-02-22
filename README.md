@@ -57,21 +57,20 @@
 
 <!-- ============== Language and tools ======== -->
 <h3 align="center">⚡ Tech Stack</h3>
-<h3> 🧩 Back-end</h3>
+<h3> 🧩 Back-end Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/dj-Django-blue"/>
   <img src="https://img.shields.io/badge/api-Django%20Rest%20Framework-blueviolet"/>
-  <img src="https://img.shields.io/badge/GQL-GraphQL-ff69b4"/>
+  <img src="https://img.shields.io/badge/Gql-GraphQL-ff69b4"/>
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
 </p>
 
-<h3> 🧑🏻‍💻 Front-end</h3>
+<h3> 🧑🏻‍💻 Front-end Frameworks</h3>
 <p>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
+  <img src="https://img.shields.io/badge/Nxt-Next.js-47e"/>
+  <img src="https://img.shields.io/badge/React-React.js-informational"/>
+  <img src="https://img.shields.io/badge/B-BootStrap-critical"/>
+  <img src="https://img.shields.io/badge/tcss-Tailwind%20CSS-blue"/>
 </p>
 
 <h3> ✍🏻 Languages</h3> 
@@ -86,6 +85,18 @@
 
 <h3> 🚀 DataBase</h3>
 <p>
+  <img src="https://img.shields.io/badge/psql-PostGresql-blue"/>
+  <img src="https://img.shields.io/badge/msql-MySql-orange"/>
+</p>
+
+<h3> 🔝 API Framework</h3>
+<p>
+  <img src="https://img.shields.io/badge/GQL-GraphQL-ff69b4"/>
+  <img src="https://img.shields.io/badge/Gql-GraphQL-ff69b4"/>
+</p>
+
+<h3> ✍🏻 Tools & Platform</h3> 
+<p>
   <img src=""/>
   <img src=""/>
   <img src=""/>
@@ -93,10 +104,13 @@
   <img src=""/>
 </p>
 
-<h3> 🔝 API</h3>
+<h3> 🧑🏻‍💻 Workspace</h3> 
 <p>
-  <img src="https://img.shields.io/badge/GQL-GraphQL-ff69b4"/>
-  <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
 </p>
 
 
