@@ -43,7 +43,8 @@
   <a href= "https://www.facebook.com/Bullet007.0"><img src="https://img.icons8.com/doodle/48/null/facebook-new.png"/></a>
   <a href= "https://www.instagram.com/ek_villain.007"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
 </p>
-<p align="center">-----------------------------	***	----------------------------- *** -----------------------------</p>
+<br/>
+<!-- <p align="center">-----------------------------	***	----------------------------- *** -----------------------------</p> -->
 
 <!-- ============== Language and tools ======== -->
 <h3 align="center">Languages and Tools:</h3>
@@ -57,8 +58,8 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-
-<p align="center">-----------------------------	***	----------------------------- *** -----------------------------</p>
+<br/>
+<!-- <p align="center">-----------------------------	***	----------------------------- *** -----------------------------</p> -->
 
 <!-- ============== Statistics ======== -->
 <h3>Statistics</h3>
