@@ -1,3 +1,5 @@
+<!-- Profile views  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjewel" /> </p>
 <!-- ============== Title ======== -->
 <h3 align="center" style="color: green">Full-Stack Python Developer</h3>
 <p align="center">
