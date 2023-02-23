@@ -139,6 +139,46 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
 </p>
 
+<!-- ============== Pinned Repo ============== -->
+<h3 align="center"> 📕 Pinned Repositories</h3>
+<p align="center">
+  <a href="https://github.com/MahmudJewel/Django-E_commerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-E_commerce&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=BlogWithLikeComment-DRF_Reactjs&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/Django-Blog--techvillain-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Blog--techvillain-&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/React-Movies_Portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=React-Movies_Portal&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/Django-exam_portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-exam_portal&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/Django_portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django_portfolio&hide_border=true&theme=radical" />
+  </a>
+  <!-- <a href="">
+    <img align="center" src="" />
+  </a>
+  <a href="">
+    <img align="center" src="" />
+  </a>
+  <a href="">
+    <img align="center" src="" />
+  </a>
+  <a href="">
+    <img align="center" src="" />
+  </a>
+  <a href="">
+    <img align="center" src="" />
+  </a>
+  <a href="">
+    <img align="center" src="" />
+  </a> -->
+</p>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 
 <br/><br/>
