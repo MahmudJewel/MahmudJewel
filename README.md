@@ -141,11 +141,21 @@
   <a href="https://github.com/MahmudJewel/Django-E_commerce">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-E_commerce&hide_border=true&theme=radical" />
   </a>
-  <a href="https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=BlogWithLikeComment-DRF_Reactjs&hide_border=true&theme=radical" />
-  </a>
   <a href="https://github.com/MahmudJewel/Django-Blog--techvillain-">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Blog--techvillain-&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/Django-URL_shortener">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-URL_shortener&hide_border=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/MahmudJewel/DRF-Product-Recommendation-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=DRF-Product-Recommendation-System&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/API-ecommerce_for_mktech">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=API-ecommerce_for_mktech&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=BlogWithLikeComment-DRF_Reactjs&hide_border=true&theme=radical" />
   </a>
   <a href="https://github.com/MahmudJewel/React-Movies_Portal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=React-Movies_Portal&hide_border=true&theme=radical" />
@@ -156,24 +166,22 @@
   <a href="https://github.com/MahmudJewel/Django_portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django_portfolio&hide_border=true&theme=radical" />
   </a>
-  <!-- <a href="">
-    <img align="center" src="" />
+
+  <a href="https://github.com/MahmudJewel/Django-Elastic_Search-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Elastic_Search-2&hide_border=true&theme=radical" />
   </a>
-  <a href="">
-    <img align="center" src="" />
+  <a href="https://github.com/MahmudJewel/Django-Payments_for_SSLCommerz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Payments_for_SSLCommerz&hide_border=true&theme=radical" />
   </a>
-  <a href="">
-    <img align="center" src="" />
+  <a href="https://github.com/MahmudJewel/Django-Search_History">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Search_History&hide_border=true&theme=radical" />
   </a>
-  <a href="">
-    <img align="center" src="" />
+  <a href="https://github.com/MahmudJewel/Pharmacy-Store-Management-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Pharmacy-Store-Management-System&hide_border=true&theme=radical" />
   </a>
-  <a href="">
-    <img align="center" src="" />
+  <a href="https://github.com/MahmudJewel/File-transferring-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=File-transferring-app&hide_border=true&theme=radical" />
   </a>
-  <a href="">
-    <img align="center" src="" />
-  </a> -->
 </p>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 
