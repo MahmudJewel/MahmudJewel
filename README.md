@@ -124,7 +124,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
 </p>
-<br/><br/>
+<br/>
 
 <!-- ======================================= Pinned Repo ======================================= -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
