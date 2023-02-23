@@ -86,15 +86,15 @@
 <h3> 🚀 DataBase</h3>
 <p>
   <img src="https://img.shields.io/badge/sql-Raw%20SQL-blue"/>
-  <img src="https://img.shields.io/badge/psql-PostgreSQL-blue"/>
+  <img src="https://img.shields.io/badge/psql-PostgreSQL-blueviolet"/>
   <img src="https://img.shields.io/badge/msql-MySQL-orange"/> 
-  <img src="https://img.shields.io/badge/db-SQLite-informational"/>
+  <img src="https://img.shields.io/badge/db-SQLite-orange"/>
 </p>
 
 <h3> 🔝 API Framework</h3>
 <p>
   <img src="https://img.shields.io/badge/GqL-GraphQL-ff69b4"/>
-  <img src="https://img.shields.io/badge/api-Rest API-ff69b4"/>
+  <img src="https://img.shields.io/badge/api-Rest API-blueviolet"/>
 </p>
 
 <!-- <h3> ✍🏻 Tools & Platform</h3> 
