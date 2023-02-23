@@ -141,7 +141,7 @@
 </p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=demo" alt="mahmudjewel" />
 </p>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
