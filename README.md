@@ -134,10 +134,17 @@
 
 <!-- ============== Statistics ======== -->
 <h3 align="center"> 📈 Statistics</h3>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=compact" alt="mahmudjewel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" /></p>
-
+<!-- <p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=compact" alt="mahmudjewel" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
+</p> -->
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=demo" alt="mahmudjewel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
+</p>
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 <br/><br/>
 
 <!-- ==============  snake ======== -->
