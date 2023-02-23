@@ -7,7 +7,7 @@
 </p>
 
 <!-- ============== Title ======== -->
-<h3 align="center" style="color: green">Full-Stack Python Developer</h3>
+<h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
 <!-- ============== summary tracks  ============== -->
 <p align="center">
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
@@ -47,7 +47,7 @@
 
 
 <!-- ============== social link ======== -->
-<h3 align="center"> <img src="/static/wave.gif" width="24px" height="24px"> Connect with me</h3>   
+<h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
 <p align="center">
   <a href= "https://www.linkedin.com/in/mahmudjewel"><img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png"/></a>
   <a href= "https://www.hackerrank.com/DJ_cse"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
