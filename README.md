@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/sql-Raw%20SQL-blue"/>
   <img src="https://img.shields.io/badge/psql-PostgreSQL-blueviolet"/>
   <img src="https://img.shields.io/badge/msql-MySQL-orange"/> 
-  <img src="https://img.shields.io/badge/db-SQLite-orange"/>
+  <img src="https://img.shields.io/badge/db-SQLite-green"/>
 </p>
 
 <h3> 🔝 API Framework</h3>
