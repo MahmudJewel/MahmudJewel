@@ -6,6 +6,8 @@
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a>
 </p>
 
+
+
 <!-- ======================================= Title ======================================= -->
 <h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
 <!-- ======================================= summary stacks  ======================================= -->
@@ -42,6 +44,8 @@
   </a>
 </p>
 <br/>
+
+
 
 <!-- ======================================= social link ======================================= -->
 <h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
@@ -116,6 +120,8 @@
 </p>
 <br/>
 
+
+
 <!-- ======================================= Statistics ======================================= -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
@@ -126,6 +132,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
 </p>
 <br/>
+
+
 
 <!-- ======================================= Pinned Repo ======================================= -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
@@ -170,6 +178,8 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 
 <br/><br/>
+
+
 
 <!-- =======================================  snake ======================================= -->
 <p align="center">
