@@ -6,8 +6,6 @@
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a>
 </p>
 
-
-
 <!-- ======================================= Title ======================================= -->
 <h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
 <!-- ======================================= summary stacks  ======================================= -->
@@ -45,8 +43,6 @@
 </p>
 <br/>
 
-
-
 <!-- ======================================= social link ======================================= -->
 <h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
 <p align="center">
@@ -57,7 +53,6 @@
   <a href= "https://www.instagram.com/ek_villain.007"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
 </p>
 <br/>
-
 
 <!-- ======================================= Language and tools ======================================= -->
 <h3 align="center">⚡ Tech Stack</h3>
@@ -120,8 +115,6 @@
 </p>
 <br/>
 
-
-
 <!-- ======================================= Statistics ======================================= -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
@@ -133,7 +126,12 @@
 </p>
 <br/>
 
-
+<!-- =======================================  trophy ======================================= -->
+<h3 align="center"> 🚀 Profile-Trophy</h3>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmudjewel" />
+</p>
+<br/>
 
 <!-- ======================================= Pinned Repo ======================================= -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
@@ -186,8 +184,6 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 
 <br/><br/>
-
-
 
 <!-- =======================================  snake ======================================= -->
 <p align="center">
