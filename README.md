@@ -34,7 +34,7 @@
   <!-- <a href= "https://www.postgresql.org" target="_blank">
     <img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
   </a> -->
-  <a href="https://www.postgresql.org"  rel="noreferrer"> 
+  <a href="https://www.postgresql.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
   <a href= "#" >
