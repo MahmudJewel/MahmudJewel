@@ -1,47 +1,48 @@
 <!-- ========================== Profile views ===================== -->
-<!-- <p> -->
 <p align="right"> 
   <!-- <img src="https://komarev.com/ghpvc/?username=mahmudjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjewel" /> -->
   <img src="https://views.whatilearened.today/views/github/mahmudjewel/views.svg" alt="mahmudjewel" />
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a>
 </p>
 
+
 <!-- ============================ Title ======================== -->
 <h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
 <!-- =========================== summary stacks  ========================== -->
 <p align="center">
-  <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
+  <a href= "https://www.djangoproject.com" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
   </a>
   <!-- <a href= "https://nextjs.org" target="_blank">
     <img src="https://img.icons8.com/color/50/null/nextjs.png"/>
   </a> -->
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+  <a href="https://nextjs.org" rel="noreferrer"> 
     <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png" alt="nextjs" width="50" height="50"/> 
   </a>
   <!-- <a href= "https://reactjs.org" target="_blank">
     <img src="https://img.icons8.com/officel/50/null/react.png"/>
   </a> -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   </a>
-  <a href= "https://graphql.org" target="_blank">
+  <a href= "https://graphql.org" >
     <img src="https://img.icons8.com/color/50/null/graphql.png"/>
   </a>
-  <a href= "https://restfulapi.net" target="_blank">
+  <a href= "https://restfulapi.net" >
     <img src="https://img.icons8.com/nolan/50/api-settings.png"/>
   </a>
   <!-- <a href= "https://www.postgresql.org" target="_blank">
     <img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
   </a> -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.postgresql.org"  rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
-  <a href= "#" target="_blank">
+  <a href= "#" >
     <img src="https://img.icons8.com/color/50/null/linux--v1.png"/>
   </a>
 </p>
 <br/>
+
 
 <!-- ===================== social link ======================== -->
 <h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
@@ -54,6 +55,7 @@
   <a href= "https://www.instagram.com/ek_villain.007"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
 </p>
 <br/>
+
 
 <!-- ========================= Language and tools ===================== -->
 <h3 align="center">⚡ Tech Stack</h3>
@@ -116,6 +118,7 @@
 </p>
 <br/>
 
+
 <!-- ========================= Statistics ============================== -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
@@ -127,12 +130,14 @@
 </p>
 <br/>
 
+
 <!-- ==========================  trophy ============================ -->
 <h3 align="center"> 🚀 Profile-Trophy</h3>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmudjewel" />
 </p>
 <br/>
+
 
 <!-- ======================= Pinned Repo ========================== -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
@@ -188,6 +193,7 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 
 <br/><br/>
+
 
 <!-- =========================  snake ========================== -->
 <p align="center">
