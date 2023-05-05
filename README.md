@@ -1,4 +1,4 @@
-<!-- ======================================= Profile views ======================================= -->
+<!-- ========================== Profile views ===================== -->
 <!-- <p> -->
 <p align="right"> 
   <!-- <img src="https://komarev.com/ghpvc/?username=mahmudjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjewel" /> -->
@@ -6,9 +6,9 @@
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a>
 </p>
 
-<!-- ======================================= Title ======================================= -->
+<!-- ============================ Title ======================== -->
 <h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
-<!-- ======================================= summary stacks  ======================================= -->
+<!-- =========================== summary stacks  ========================== -->
 <p align="center">
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
@@ -43,7 +43,7 @@
 </p>
 <br/>
 
-<!-- ======================================= social link ======================================= -->
+<!-- ===================== social link ======================== -->
 <h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
 <p align="center">
   <a href= "https://www.linkedin.com/in/mahmudjewel"><img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png"/></a>
@@ -54,7 +54,7 @@
 </p>
 <br/>
 
-<!-- ======================================= Language and tools ======================================= -->
+<!-- ========================= Language and tools ===================== -->
 <h3 align="center">⚡ Tech Stack</h3>
 <h3> 🧩 Back-end Frameworks</h3>
 <p>
@@ -115,7 +115,7 @@
 </p>
 <br/>
 
-<!-- ======================================= Statistics ======================================= -->
+<!-- ========================= Statistics ============================== -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=demo" alt="mahmudjewel" />
@@ -126,14 +126,14 @@
 </p>
 <br/>
 
-<!-- =======================================  trophy ======================================= -->
+<!-- ==========================  trophy ============================ -->
 <h3 align="center"> 🚀 Profile-Trophy</h3>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmudjewel" />
 </p>
 <br/>
 
-<!-- ======================================= Pinned Repo ======================================= -->
+<!-- ======================= Pinned Repo ========================== -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
 <p align="center">
   <a href="https://github.com/MahmudJewel/Django-E_commerce">
@@ -188,7 +188,7 @@
 
 <br/><br/>
 
-<!-- =======================================  snake ======================================= -->
+<!-- =========================  snake ========================== -->
 <p align="center">
    <img src="https://github.com/MahmudJewel/MahmudJewel/blob/main/static/github-contribution-grid-snake.svg" alt="snake">
 </p>
