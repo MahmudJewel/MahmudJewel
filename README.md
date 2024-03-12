@@ -13,6 +13,12 @@
   <a href= "https://www.djangoproject.com" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
   </a>
+  <a href="[https://reactjs.org/](https://fastapi.tiangolo.com)" rel="noreferrer"> 
+    <img src="https://github.com/MahmudJewel/MahmudJewel/assets/35461355/e30dc71b-7242-4b00-b581-4e184af5a7e1" alt="fastapi" width="70" height="50"/> 
+  </a>
+  
+  ![fastapi-3](https://github.com/MahmudJewel/MahmudJewel/assets/35461355/e30dc71b-7242-4b00-b581-4e184af5a7e1)
+
   <!-- <a href= "https://nextjs.org" target="_blank">
     <img src="https://img.icons8.com/color/50/null/nextjs.png"/>
   </a> -->
