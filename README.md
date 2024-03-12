@@ -63,6 +63,7 @@
 <p>
   <img src="https://img.shields.io/badge/dj-Django-blue"/>
   <img src="https://img.shields.io/badge/api-Django%20Rest%20Framework-blueviolet"/>
+  <img src="https://img.shields.io/badge/api-FastAPI-aqua"/>
   <img src="https://img.shields.io/badge/Gql-GraphQL-ff69b4"/>
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
 </p>
@@ -122,7 +123,7 @@
 <!-- ========================= Statistics ============================== -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=demo" alt="mahmudjewel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=compact" alt="mahmudjewel" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /> &nbsp;
