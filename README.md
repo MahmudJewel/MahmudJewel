@@ -7,16 +7,15 @@
 
 
 <!-- ============================ Title ======================== -->
-<h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
+<h3 align="center"> <img src="/static/python.gif" width="25px" height="25px"> Full-Stack Python Developer</h3>
 <!-- =========================== summary stacks  ========================== -->
 <p align="center">
   <a href= "https://www.djangoproject.com" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
   </a>
-  <a href="[https://reactjs.org/](https://fastapi.tiangolo.com)" rel="noreferrer"> 
-    <img src="https://github.com/MahmudJewel/MahmudJewel/assets/35461355/e30dc71b-7242-4b00-b581-4e184af5a7e1" alt="fastapi" width="80" height="50"/> 
+  <a href="https://fastapi.tiangolo.com" rel="noreferrer"> 
+    <img src="https://github.com/MahmudJewel/MahmudJewel/assets/35461355/e30dc71b-7242-4b00-b581-4e184af5a7e1" alt="fastapi" width="100" height="50"/> 
   </a>
-
   <!-- <a href= "https://nextjs.org" target="_blank">
     <img src="https://img.icons8.com/color/50/null/nextjs.png"/>
   </a> -->
