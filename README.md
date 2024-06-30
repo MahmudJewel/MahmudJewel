@@ -125,9 +125,9 @@
 
 <!-- ========================= Statistics ============================== -->
 <h3 align="center"> 📈 Statistics</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=compact" alt="mahmudjewel" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
