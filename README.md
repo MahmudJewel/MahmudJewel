@@ -20,8 +20,10 @@
     <img src="https://img.icons8.com/color/50/null/nextjs.png"/>
   </a> -->
   <a href="https://nextjs.org" rel="noreferrer"> 
-    <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png" alt="nextjs" width="50" height="50"/> 
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png" alt="nextjs" width="70" height="50"/> 
   </a>
+  <!-- https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png -->
+  
   <!-- <a href= "https://reactjs.org" target="_blank">
     <img src="https://img.icons8.com/officel/50/null/react.png"/>
   </a> -->
